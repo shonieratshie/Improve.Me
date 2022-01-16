@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\s2100\\Documents\\Nml.Improve.Me\\Nml.Improve.Me\\Nml.Improve.Me.csproj",
+      "projectUniqueName": "C:\\Users\\s2100\\Documents\\Nml.Improve.Me\\Nml.Improve.Me\\Improve.Me\\Nml.Improve.Me.csproj",
       "projectName": "Nml.Improve.Me",
-      "projectPath": "C:\\Users\\s2100\\Documents\\Nml.Improve.Me\\Nml.Improve.Me\\Nml.Improve.Me.csproj",
+      "projectPath": "C:\\Users\\s2100\\Documents\\Nml.Improve.Me\\Nml.Improve.Me\\Improve.Me\\Nml.Improve.Me.csproj",
       "packagesPath": "C:\\Users\\s2100\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\s2100\\Documents\\Nml.Improve.Me\\Nml.Improve.Me\\obj\\",
+      "outputPath": "C:\\Users\\s2100\\Documents\\Nml.Improve.Me\\Nml.Improve.Me\\Improve.Me\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\s2100\\AppData\\Roaming\\NuGet\\NuGet.Config",

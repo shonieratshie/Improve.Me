@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "pevZnNhcSzOgceC5DDVCrTBsZsczySyctbqZpCK7xiKe3RVWpRMDJPl6Gc9wzNSx8d9ESJAo9wiaNtVlqTIa/A==",
+  "dgSpecHash": "5AckrTD9AJOwydfIsbLR6Vm8iiL2oNApHOH3l3d8yAZj9+HXoaf9TmxsbK+bba9YRcSQbmynbF8cxH73HpmVOw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\s2100\\Documents\\Nml.Improve.Me\\Nml.Improve.Me\\Nml.Improve.Me.csproj",
+  "projectFilePath": "C:\\Users\\s2100\\Documents\\Nml.Improve.Me\\Nml.Improve.Me\\Improve.Me\\Nml.Improve.Me.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\s2100\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
     "C:\\Users\\s2100\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
