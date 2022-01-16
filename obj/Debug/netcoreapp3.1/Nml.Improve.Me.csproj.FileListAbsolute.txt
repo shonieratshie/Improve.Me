@@ -1,0 +1,10 @@
+C:\Users\s2100\Documents\Nml.Improve.Me\Nml.Improve.Me\bin\Debug\netcoreapp3.1\Nml.Improve.Me.deps.json
+C:\Users\s2100\Documents\Nml.Improve.Me\Nml.Improve.Me\bin\Debug\netcoreapp3.1\Nml.Improve.Me.dll
+C:\Users\s2100\Documents\Nml.Improve.Me\Nml.Improve.Me\bin\Debug\netcoreapp3.1\Nml.Improve.Me.pdb
+C:\Users\s2100\Documents\Nml.Improve.Me\Nml.Improve.Me\obj\Debug\netcoreapp3.1\Nml.Improve.Me.csproj.AssemblyReference.cache
+C:\Users\s2100\Documents\Nml.Improve.Me\Nml.Improve.Me\obj\Debug\netcoreapp3.1\Nml.Improve.Me.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s2100\Documents\Nml.Improve.Me\Nml.Improve.Me\obj\Debug\netcoreapp3.1\Nml.Improve.Me.AssemblyInfoInputs.cache
+C:\Users\s2100\Documents\Nml.Improve.Me\Nml.Improve.Me\obj\Debug\netcoreapp3.1\Nml.Improve.Me.AssemblyInfo.cs
+C:\Users\s2100\Documents\Nml.Improve.Me\Nml.Improve.Me\obj\Debug\netcoreapp3.1\Nml.Improve.Me.csproj.CoreCompileInputs.cache
+C:\Users\s2100\Documents\Nml.Improve.Me\Nml.Improve.Me\obj\Debug\netcoreapp3.1\Nml.Improve.Me.dll
+C:\Users\s2100\Documents\Nml.Improve.Me\Nml.Improve.Me\obj\Debug\netcoreapp3.1\Nml.Improve.Me.pdb
