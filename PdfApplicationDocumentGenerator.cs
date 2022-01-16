@@ -45,10 +45,11 @@ namespace Nml.Improve.Me
 					baseUri = baseUri.Substring(baseUri.Length - 1);
 
 				string view;
+				string path;
 
 				if (application.State == ApplicationState.Pending)
 				{
-					string path = _templatePathProvider.Get("PendingApplication");
+				    path = _templatePathProvider.Get("PendingApplication");
 					PendingApplicationViewModel vm = new PendingApplicationViewModel
 					{
 						ReferenceNumber = application.ReferenceNumber,
@@ -62,7 +63,7 @@ namespace Nml.Improve.Me
 				}
 				else if (application.State == ApplicationState.Activated)
 				{
-					string path = _templatePathProvider.Get("ActivatedApplication");
+				     path = _templatePathProvider.Get("ActivatedApplication");
 					ActivatedApplicationViewModel vm = new ActivatedApplicationViewModel
 					{
 						ReferenceNumber = application.ReferenceNumber,
@@ -109,11 +110,7 @@ namespace Nml.Improve.Me
 						Signature = _configuration.Signature
 					};
 					view = View_Generator.GenerateFromPath(baseUri + templatePath, inReviewApplicationViewModel);
-
-		
-					inReviewApplicationViewModel.Signature = _configuration.Signature;
-					view = View_Generator.GenerateFromPath($"{baseUri}{templatePath}", inReviewApplicationViewModel);
-				}
+            	}
 				else
 				{
 					_logger.LogWarning(
